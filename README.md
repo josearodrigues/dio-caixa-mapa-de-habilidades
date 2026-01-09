@@ -22,7 +22,7 @@ O Mapa de Habilidades foi desenvolvido seguindo as três etapas propostas pela D
 - Cruzamento com necessidades do mercado
 - Definição de caminhos de monetização
 
-📄 Arquivo: `mapa-de-habilidades.md`
+📄 Arquivo: `[mapa-de-habilidades.md](https://github.com/josearodrigues/dio-caixa-mapa-de-habilidades/blob/main/Mapa%20de%20Habilidades.pdf)`
 
 ---
 
